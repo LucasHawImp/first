@@ -10,5 +10,5 @@ here is a list to show how to do a list :
    1.day
    2.month
 
-this is a link to the \hyperlink[github repo]{https://github.com/LucasHawImp/first/new/main}
+this is a link to the [github repo](https://github.com/LucasHawImp/first/new/main)
 
