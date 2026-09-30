@@ -12,3 +12,6 @@ here is a list to show how to do a list :
 
 this is a link to the [github repo](https://github.com/LucasHawImp/first/new/main)
 
+## here is a sub title 
+### and a sub sub one
+
